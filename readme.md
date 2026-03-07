@@ -1,7 +1,5 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=SQL%20Sales%20Analytics%20Engine&fontSize=42&fontColor=e94560&fontAlignY=38&desc=Transforming%20Raw%20Transactions%20into%20Strategic%20Business%20Intelligence&descAlignY=58&descSize=16&descColor=a8b2d8" width="100%"/>
 
 <br/>
 
@@ -387,3 +385,4 @@ The methodology reflects practices expected in **data analytics, business intell
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 
 </div>
+
