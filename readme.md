@@ -1,15 +1,12 @@
 <div align="center">
 
+# SQL Sales Analytics Engine
+### Transforming Raw Transactions into Strategic Business Intelligence
 
-<br/>
-
-<!-- Badges Row 1 -->
 [![SQL](https://img.shields.io/badge/SQL-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 [![License](https://img.shields.io/badge/License-MIT-e94560?style=for-the-badge)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Production%20Ready-00d4aa?style=for-the-badge)]()
 [![Queries](https://img.shields.io/badge/Queries-4%20Analytical%20Modules-7c3aed?style=for-the-badge)]()
-
-<!-- Badges Row 2 -->
 [![Window Functions](https://img.shields.io/badge/Window%20Functions-RANK%20%7C%20PARTITION-f59e0b?style=for-the-badge)]()
 [![Dataset](https://img.shields.io/badge/Dataset-Chinook%20DB-0ea5e9?style=for-the-badge)]()
 [![Tool](https://img.shields.io/badge/IDE-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)]()
@@ -17,8 +14,6 @@
 <br/>
 
 > **"Transforming 11 relational tables into actionable revenue intelligence — through precision SQL engineering"**
-
-<br/>
 
 </div>
 
@@ -377,12 +372,9 @@ The methodology reflects practices expected in **data analytics, business intell
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=100&section=footer" width="100%"/>
-
 **Built with precision SQL · Documented for impact · Ready for enterprise review**
 
 [![GitHub](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 
 </div>
-
